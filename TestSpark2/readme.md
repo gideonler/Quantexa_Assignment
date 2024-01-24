@@ -24,7 +24,7 @@ Follow these steps to run the analysis:
 
 3. **View the Results**:
     - The analysis results will be stored in the `CSV_Output` directory.
-    - For the primary analysis, check the `src/main/CSV_Output/qs3` directory.
+    - For the primary analysis, check the `src/main/CSV_Output` directory.
     - For the bonus analysis, check the `src/main/CSV_Output/bonus` directory.
 
 4. **CSV Output Format**:
